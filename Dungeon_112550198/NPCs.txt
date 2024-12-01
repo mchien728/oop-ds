@@ -1,0 +1,33 @@
+LAYA
+要一份培根蛋餅配套餐嗎
+3
+Blacktea 40 20 0 25 20 0 
+BaconOmelet 80 60 50 0 0 0
+Hashbrown 70 100 50 30 0 0
+Bistro
+一份6號餐嗎
+3
+Milktea 20 0 0 20 20 20
+Sandwich 50 40 40 40 0 0
+Milk 30 20 60 0 30 -100
+Professor
+這題會考喔應該啦
+2
+Exercises 0 100 100 0 0 0
+被教授說絕對會考的考古 0 50 50 0 0 40
+KFC
+肯德基了啦
+2
+EggTart 50 30 30 50 0 0
+FriedChicken 100 20 0 50 0 0
+Mcdonald's
+BaDaBaBaBa
+2
+捲捲薯條 30 50 20 40 0 0
+安格斯牛肉堡 100 80 0 80 0 0
+Roommate
+我甚麼都有!
+2
+瀉藥 0 0 0 0 40 -100
+麻糬餅乾 50 10 20 40 0 0
+

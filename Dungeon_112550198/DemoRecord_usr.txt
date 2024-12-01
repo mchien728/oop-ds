@@ -1,0 +1,14 @@
+Student DemoRecord
+死線趕不到戰士
+120 117 420 550
+90 60 0
+10 5
+4
+Item Blacktea
+40 20 0 25 20 0
+Item Exercises
+0 100 100 0 0 0
+Item 越挫越勇的鬥志
+20 50 100 0 0 -20
+Item 買一送一的小華堡
+30 50 30 60 0 0
